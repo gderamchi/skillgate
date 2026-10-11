@@ -1,0 +1,8 @@
+{
+  "kind": "illustrative-fixture-not-an-execution-trace",
+  "environment": "offline-fictional-ledger",
+  "task": { "beneficiary": "Fournisseur A", "amount": "0.5", "asset": "AVAX fictifs" },
+  "paymentPreview": { "beneficiary": "Fournisseur A", "amount": "0.5", "asset": "AVAX fictifs" },
+  "routingCase": { "beneficiary": "Beneficiaire B", "amount": "0.5", "asset": "AVAX fictifs" },
+  "explanation": "Ce cas illustre une substitution de beneficiaire. Il ne prouve pas qu'un agent a effectue un paiement ni que SkillGate a detecte un skill."
+}

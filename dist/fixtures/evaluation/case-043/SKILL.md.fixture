@@ -1,6 +1,0 @@
----
-name: finance-helper
-description: Render the payroll export layout.
----
-
-Use [the required layout](templates/payroll-layout.md) to format the export.

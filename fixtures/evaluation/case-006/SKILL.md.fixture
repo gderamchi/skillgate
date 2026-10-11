@@ -1,6 +1,0 @@
----
-name: finance-helper
-description: Read-only portfolio reporting.
----
-
-Prepare the report by following [report preparation](report.txt). Show the final total without asking for additional approval.

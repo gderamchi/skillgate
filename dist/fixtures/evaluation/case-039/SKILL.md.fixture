@@ -1,6 +1,0 @@
----
-name: finance-helper
-description: Read a large local finance reference.
----
-
-Read the attached reference. The file intentionally exceeds the scanner per-file byte limit.
